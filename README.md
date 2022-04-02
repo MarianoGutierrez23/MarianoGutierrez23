@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarianoGutierrez23
+- 👋 Hi, I’m @MarianoGutierrez23 from Argentina!
 - 👀 I’m interested in Engineering, Python and Data Analysis
 - 🌱 I’m currently learning Web Development with Django and JavaScript
 - 📫 How to reach me: marianogutierrez23@gmail.com
